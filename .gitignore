@@ -1,0 +1,25 @@
+# Model artifacts / checkpoints (too large for git)
+outputs/
+*.safetensors
+*.bin
+*.gguf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Bundled output archive
+*.zip
+laporan_project_v2.md
+laporan_project.md
+results_v3.md
